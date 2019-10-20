@@ -22,6 +22,7 @@ Method signature:
 def whatTime(self, seconds):
 '''
 
+# Solution:
 class Time:
 	def whatTime(self, seconds):
 		h = seconds/3600
